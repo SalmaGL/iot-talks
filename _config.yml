@@ -1,0 +1,14 @@
+# Site settings
+title: IoT Talks
+email: essalmani.salma@gmail.com
+description: "Its a collection of technical talks that I enjoyed watching. I have avoided putting product announcements or company specific talks.You can also contribute to the list by forking on github."
+baseurl: "/iottalks"
+url: "http://salmagl.github.io/iottalks"
+username : salmagl
+twitter : salma_essalmani
+paginate: 10
+
+
+# Build settings
+markdown: kramdown
+permalink: /:title
